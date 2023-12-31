@@ -1,1 +1,20 @@
 .ipynb_checkpoints
+# Ignore large datasets
+*.arff
+
+# lab1
+lab1/ames*
+lab1/bank*
+
+# lab2
+lab2/data
+
+# lab3
+lab3/adult*
+lab3/old.adult.names
+
+# lab4
+lab4/data
+lab4/hotdog
+lab4/hotdog.zip
+lab4/vggface_labels.csv
